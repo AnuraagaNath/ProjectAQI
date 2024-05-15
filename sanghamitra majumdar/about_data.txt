@@ -16,3 +16,26 @@ The data has been made publicly available by the Central Pollution Control Board
 
 Noise
 Similar to air monitoring data, a dataset on noise decibel levels in India is available here: https://www.kaggle.com/rohanrao/noise-monitoring-data-in-india
+
+
+
+
+
+SUPPOSE NOW U ADD SOME FILES TO UR FOLDER.
+
+CHANGES ARE THERE.
+
+NOW FOLLOW HOW TO ADD THOSE CHANGES AND COMMIT
+
+
+1. git add -A (for adding changes)
+2. git status (for visualizing stages and changes)
+3. git commit -m "add some message here what u did"
+4. finally check which branch u r in (git branch)
+5. git push origin (ur branch name)
+
+
+LETS SEE HOW WE DO IT. 
+
+
+THIS WHOLE PART IS A CHANGE TOO :)
