@@ -21,21 +21,12 @@ Similar to air monitoring data, a dataset on noise decibel levels in India is av
 
 
 
-SUPPOSE NOW U ADD SOME FILES TO UR FOLDER.
-
-CHANGES ARE THERE.
-
-NOW FOLLOW HOW TO ADD THOSE CHANGES AND COMMIT
+NOW LET'S SAY I AM ADDING SOME FILES OR WRITING OVER.
+IT MAKES THE CHANGES ON THE GIT. 
+BUT ITS NOT ADDED REAL TIME .. 
 
 
-1. git add -A (for adding changes)
-2. git status (for visualizing stages and changes)
-3. git commit -m "add some message here what u did"
-4. finally check which branch u r in (git branch)
-5. git push origin (ur branch name)
 
+FOLLOW NEXT
 
-LETS SEE HOW WE DO IT. 
-
-
-THIS WHOLE PART IS A CHANGE TOO :)
+MAKE UR OWN BRANCH: git checkout -b 'your branch name' // (make it short name for easy)
